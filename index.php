@@ -46,7 +46,8 @@ else
             <li><a href="http://aws.amazon.com/php">PHP developer center</a></li>
             <li><a href="https://github.com/aws/aws-sdk-php">AWS SDK for PHP on GitHub</a></li>
 		</ul>
-		<h2>My text</h2>
+		<h2>МОЙ текст.</h2>
+		<h3>Съеш мягких французских булочек, да выпей чаю.</h3>
 		<ul>
 			<li><font color=gray>First string</font></li>
 			<li>Second string</li>
