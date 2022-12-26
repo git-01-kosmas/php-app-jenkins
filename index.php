@@ -48,7 +48,7 @@ else
 		</ul>
 		<h2>My text</h2>
 		<ul>
-			<li>First string</li>
+			<li><font color=gray>First string</font></li>
 			<li>Second string</li>
 			<li>Third string</li>
         </ul>
